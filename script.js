@@ -1,6 +1,6 @@
 var words =[
     [ 
-        "next",
+        "siguiente",
         "short",
         "nice",
         "bottle",
